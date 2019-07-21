@@ -1,4 +1,4 @@
-# Name of App
+# Wdi APP
 
 
 ## Web Application Description 
