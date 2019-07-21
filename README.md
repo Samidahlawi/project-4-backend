@@ -1,14 +1,38 @@
 # Name of App
 
 
+
 ## Web Application Description 
 
 
-## User Stories
+---
+## Prerequisites
 
+npm  
+```
+$ npm install
+```
 
-## Wireframes
+Run server
+```
+$npm start
+```
 
-
-
+---
 ## Data Modeling
+
+
+
+
+
+
+## Built With
+
+
+
+
+## Developers
+
+
+
+
